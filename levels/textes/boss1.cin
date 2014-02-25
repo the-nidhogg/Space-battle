@@ -1,0 +1,14 @@
+[	["Un informateur de la rebélion infiltré chez l'ennemi nous rapporte",
+		"l'approche d'un vaisseau de ravitaillement.",
+		"C'est l'occasion pour vous de porter un coup à l'empire!"],
+	["Un vaisseau comme celui-ci n'est pas très protégé",
+		"mais il possède malgrè tout quelques defenses."],
+	["Trois canons automatiques sont protégés par des boucliers d'énergie,",
+		"alimentés pas des panneaux solaires, il faut donc les détruire."],
+	["Mais les ingenieurs de l'empire ne sont pas bête, et on fait en sorte que",
+		"les panneaux solaires soient capable de se protéger en cas d'attaque.",
+		"La défaillance d'un panneau pendant plus de 5 sencondes entraine l'activation du bouclier",
+		" du second panneau pendant que le pemier est reparé."],
+	["Vous devez donc détruire les deux panneaux dans un interval de moins de 5 secondes."],
+	["Bonne chance!"]
+]

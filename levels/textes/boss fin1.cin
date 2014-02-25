@@ -1,0 +1,13 @@
+[	["Le vaisseau de ravitaillement semblait transporter",
+		"une grande quantité de marchandise! Vous récuperez une partie",
+		"de leur énergie avant que le reste du vaisseau n'explose..."],
+	["Voilà votre premier acte héroïque! Toute cette cargaison aurait certainement servie à faire",
+		"des recherches scientifiques doûteuses ou à fabriquer des nouvelles armes..."],
+	["Vous voilà parti pour continuer votre exploration de l'univers à la recherche d'alliers",
+		"pour combatre l'Empire. Après vos exploits, la Rébélion aurait due vous accepter, mais après avoir",
+		"parlé de ce que vous aviez fait, ils vous ont menacés de vous tuer... Puis, ils vous ont",
+		"demandé de lâcher l'affaire et de rentrer chez vous, sous prétexte que vous n'étiez qu'un bon à rien..."],
+	["Vous décidez malgrè leurs menaces de continuer votre exploration. Après tout, vous portez l'espoir de",
+		"libérer plusieurs peuples de l'oppression!"],
+	["Vous récupérez {} MegaWatt.".format(boss.money)]
+]

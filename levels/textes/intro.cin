@@ -1,0 +1,12 @@
+[	["Félictiation! Vous avez enfin décidé de vous rebéler contre l'Empire, ces mégalomanes qui contrôlent",
+		"les galaxies les plus proches et qui pillent les pauvres à coup de taxes pour s'enrichire et créer",
+		"des nouvelles armes pour mieux imposer leur pouvoir!"],
+		
+	["Dans votre petit village, vous êtes acclamé par tout le monde car ils voient en vous",
+		"la lueur d'espoir qui va peut-être sauver plusieurs peuples de l'opression, et même si la Rebelion ne vous",
+		"a pas accepté car ils ne vous jugeaient \"pas assez prêt\", vous embarquez dans votre vaisseau, payé par les",
+		"villageois grâce aux économies qu'ils ont fait sur plusieurs générations."],
+		
+	["Vous voilà à bord du {} prèt à explorer les confins de l'univers pour vous faire des alliers".format(vaisseau.shipname),
+		"(peut-être la Rébélion, qui sait?) afin renverser l'empire."]
+]
